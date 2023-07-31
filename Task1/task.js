@@ -38,6 +38,8 @@ function createNeedElement(code, value) {
     }
 })()
 
+
+
 // let xhr = new XMLHttpRequest()
 // xhr.open('GET', 'https://students.netoservices.ru/nestjs-backend/slow-get-courses')
 // xhr.responseType = 'json'
